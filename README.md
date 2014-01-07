@@ -1,4 +1,4 @@
-Meteor Easy Search
+Meteor Easy Search (with facet support)
 =====================
 
 Searching made simple, featuring Elastic Search!
